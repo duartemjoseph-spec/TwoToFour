@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\TwoToFour\\TwoToFour.csproj": {}
+    "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\TwoToFour\\TwoToFour.csproj": {}
   },
   "projects": {
-    "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\TwoToFour\\TwoToFour.csproj": {
+    "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\TwoToFour\\TwoToFour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\TwoToFour\\TwoToFour.csproj",
+        "projectUniqueName": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\TwoToFour\\TwoToFour.csproj",
         "projectName": "TwoToFour",
-        "projectPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\TwoToFour\\TwoToFour.csproj",
-        "packagesPath": "C:\\Users\\littl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\TwoToFour\\obj\\",
+        "projectPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\TwoToFour\\TwoToFour.csproj",
+        "packagesPath": "C:\\Users\\Eliasaf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\TwoToFour\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\littl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Eliasaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

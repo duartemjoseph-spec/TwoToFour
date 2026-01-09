@@ -33,3 +33,39 @@ C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\Tw
 C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\TwoToFour\obj\Debug\net9.0\TwoToFour.pdb
 C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\TwoToFour\obj\Debug\net9.0\TwoToFour.genruntimeconfig.cache
 C:\Users\littl\OneDrive\Documents\Academy\CodeStack Level2\Assignments Level2\TwoToFour\obj\Debug\net9.0\ref\TwoToFour.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\appsettings.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\TwoToFour.staticwebassets.endpoints.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\TwoToFour.exe
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\TwoToFour.deps.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\TwoToFour.runtimeconfig.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\TwoToFour.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\TwoToFour.pdb
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.csproj.AssemblyReference.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.AssemblyInfoInputs.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.AssemblyInfo.cs
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.csproj.CoreCompileInputs.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.sourcelink.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\scopedcss\bundle\TwoToFour.styles.css
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.csproj.Up2Date
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\refint\TwoToFour.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.pdb
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\TwoToFour.genruntimeconfig.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\TwoToFour\obj\Debug\net9.0\ref\TwoToFour.dll

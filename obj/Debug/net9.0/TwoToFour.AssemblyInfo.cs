@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwoToFour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdf27a29c60e0ce9bd30d78f2f12c6a9a2de04c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwoToFour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwoToFour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
